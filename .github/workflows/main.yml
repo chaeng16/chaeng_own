@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '40 6 * * *' # 매일 오후 3시 40분 (KST) - 시간은 원하시는 대로 수정 가능!
+    - cron: '40 6 * * *' 
 
 jobs:
   run-lunch-bot:
@@ -19,7 +19,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install python-dotenv
+          pip install requests python-dotenv  # 여기에 requests를 직접 추가했습니다!
 
       - name: Run Lunch Picker
         run: python lunch.py
@@ -29,5 +29,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add lunch_history.txt
-          git commit -m "Update: 오늘 점심 메뉴 기록 완료" || echo "No changes to commit"
+          git commit -m "Update: 오늘 점심 메뉴 및 API 조언 기록 완료" || echo "No changes to commit"
           git push
