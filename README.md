@@ -21,3 +21,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/german-shepherd/n02106662_24774.jpg)
 
 ---
+## 📅 2026-02-06 07:16 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/terrier-kerryblue/n02093859_2893.jpg)
+
+---
