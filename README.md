@@ -1,13 +1,20 @@
-# 🍔 chaeng_own: 점심 메뉴 자동 추천 시스템
+# 🐶 chaeng_own: 매일 배달되는 귀여운 강아지 사진 시스템
 
-이 프로젝트는 GitHub Actions를 활용하여 매일 정해진 시간에 점심 메뉴를 추천하고 그 기록을 남기는 **자동화 파이프라인**입니다.
+이 프로젝트는 **GitHub Actions**와 **Dog API**를 활용하여 매일 귀여운 강아지 사진을 자동으로 수집하고 전시하는 자동화 파이프라인입니다.
 
 ## 🛠️ 기술 스택
-- **Language**: Python 3.9
-- **Automation**: GitHub Actions
-- **Storage**: GitHub Repository (lunch_history.txt)
+* **Language:** Python 3.9
+* **API:** [Dog API](https://dog.ceo/dog-api/)
+* **Automation:** GitHub Actions
+* **Storage:** GitHub Repository (README.md)
 
 ## 🚀 작동 방식
-1. 매일 설정된 시간에 GitHub Actions가 실행됩니다.
-2. `lunch.py`가 실행되어 리스트 중 하나의 메뉴를 랜덤으로 선정합니다.
-3. 선정된 메뉴는 날짜와 함께 `lunch_history.txt` 파일에 자동으로 기록됩니다.
+1. 매일 설정된 시간에 **GitHub Actions**가 깨어납니다.
+2. `lunch.py` 스크립트가 실행되어 **Dog API**로부터 랜덤 강아지 이미지 URL을 가져옵니다.
+3. 수집된 사진은 이 **README** 파일에 실시간으로 업데이트되어 전시됩니다.
+
+---
+
+## 📸 오늘의 주인공 (자동 업데이트 중)
+
+*(여기에 봇이 실행될 때마다 강아지 사진이 나타나게 됩니다!)*
