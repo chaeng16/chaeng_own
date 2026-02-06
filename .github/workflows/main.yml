@@ -3,8 +3,9 @@ name: Dog Image README Update
 on:
   push:
     branches: [ main ]
+  workflow_dispatch:      # 👈 이 줄이 있어야 [Run workflow] 버튼이 생겨요!
   schedule:
-    - cron: '0 0 * * *' # 매일 아침 9시 (KST)에 자동 업데이트
+    - cron: '0 0 * * *'
 
 jobs:
   build:
@@ -30,5 +31,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Update: 오늘의 강아지 사진으로 README 변경" || echo "No changes to commit"
+          git commit -m "Update: 오늘의 강아지 사진 추가 🐶" || echo "No changes to commit"
           git push
