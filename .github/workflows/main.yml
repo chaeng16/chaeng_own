@@ -23,12 +23,12 @@ jobs:
           pip install requests python-dotenv
 
       - name: Run Dog Collector
-        run: python lunch.py  # 파일명이 lunch.py라면 그대로 두시면 됩니다!
+        run: python lunch.py  # 파이썬 파일명이 lunch.py인 경우 그대로 둡니다.
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add dog_log.txt
+          git add dog_log.md  # .txt가 아니라 .md 파일을 추가하도록 설정!
           git commit -m "Update: 귀여운 강아지 사진 추가 🐶" || echo "No changes to commit"
           git push
