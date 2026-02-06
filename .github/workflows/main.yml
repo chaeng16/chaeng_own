@@ -1,0 +1,33 @@
+name: Chaeng Lunch Bot Automation
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '40 6 * * *' # 매일 오후 3시 40분 (KST) - 시간은 원하시는 대로 수정 가능!
+
+jobs:
+  run-lunch-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install python-dotenv
+
+      - name: Run Lunch Picker
+        run: python lunch.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add lunch_history.txt
+          git commit -m "Update: 오늘 점심 메뉴 기록 완료" || echo "No changes to commit"
+          git push
