@@ -1,19 +1,30 @@
+import requests
 import random
 from datetime import datetime
 
-# 채영님이 좋아하는 메뉴 리스트로 자유롭게 수정하세요!
-menu_list = ["김치찌개", "마라탕", "돈가스", "연어초밥", "텐동", "쌀국수", "제육볶음", "샌드위치", "파스타"]
+def get_advice():
+    # 1. 외부 API에서 데이터 가져오기 (랜덤 조언 API)
+    response = requests.get("https://api.adviceslip.com/advice")
+    if response.status_code == 200:
+        data = response.json()
+        return data['slip']['advice'] # API가 주는 조언 문구
+    return "맛있게 드세요!"
 
 def pick_lunch():
-    today = datetime.now().strftime("%Y-%m-%d")
+    menu_list = ["마라탕", "초밥", "돈가스", "쌀국수", "제육볶음", "샌드위치"]
+    today = datetime.now().strftime("%Y-%m-%d %H:%M")
     menu = random.choice(menu_list)
-    result = f"{today} 추천 메뉴: {menu}\n"
     
-    # 결과를 파일에 기록
+    # 2. API로 가져온 데이터
+    advice = get_advice()
+    
+    result = f"{today}\n🍴 점심 추천: {menu}\n💡 오늘의 한마디(API): {advice}\n"
+    result += "-"*30 + "\n"
+    
     with open("lunch_history.txt", "a", encoding="utf-8") as f:
         f.write(result)
     
-    print(f"✨ 오늘 점심은 {menu} 어떠세요? (기록 완료)")
+    print(f"✅ API 데이터 수집 및 추천 완료!")
 
 if __name__ == "__main__":
     pick_lunch()
