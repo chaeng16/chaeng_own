@@ -1,16 +1,17 @@
-name: Chaeng Lunch Bot Automation
+name: Chaeng Dog Image Collector
 
 on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '40 6 * * *' 
+    - cron: '40 6 * * *' # 매일 오후 3시 40분 (KST) 자동 실행
 
 jobs:
-  run-lunch-bot:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -19,15 +20,15 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests python-dotenv  # 여기에 requests를 직접 추가했습니다!
+          pip install requests python-dotenv
 
-      - name: Run Lunch Picker
-        run: python lunch.py
+      - name: Run Dog Collector
+        run: python lunch.py  # 파일명이 lunch.py라면 그대로 두시면 됩니다!
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add lunch_history.txt
-          git commit -m "Update: 오늘 점심 메뉴 및 API 조언 기록 완료" || echo "No changes to commit"
+          git add dog_log.txt
+          git commit -m "Update: 귀여운 강아지 사진 추가 🐶" || echo "No changes to commit"
           git push

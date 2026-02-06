@@ -1,30 +1,27 @@
 import requests
-import random
 from datetime import datetime
 
-def get_advice():
-    # 1. 외부 API에서 데이터 가져오기 (랜덤 조언 API)
-    response = requests.get("https://api.adviceslip.com/advice")
-    if response.status_code == 200:
-        data = response.json()
-        return data['slip']['advice'] # API가 주는 조언 문구
-    return "맛있게 드세요!"
+def get_dog_image():
+    # Dog API에서 랜덤 사진 주소 가져오기
+    try:
+        response = requests.get("https://dog.ceo/api/breeds/image/random")
+        if response.status_code == 200:
+            return response.json()['message']
+    except:
+        return "사진을 가져오지 못했어요 😢"
 
-def pick_lunch():
-    menu_list = ["마라탕", "초밥", "돈가스", "쌀국수", "제육볶음", "샌드위치"]
+def save_dog_log():
     today = datetime.now().strftime("%Y-%m-%d %H:%M")
-    menu = random.choice(menu_list)
+    dog_url = get_dog_image()
     
-    # 2. API로 가져온 데이터
-    advice = get_advice()
+    # 저장할 문구
+    log_entry = f"[{today}] 오늘의 강아지 📸 : {dog_url}\n"
     
-    result = f"{today}\n🍴 점심 추천: {menu}\n💡 오늘의 한마디(API): {advice}\n"
-    result += "-"*30 + "\n"
+    # dog_log.txt 파일에 차곡차곡 기록 (파일명도 센스 있게 바꿔봤어요!)
+    with open("dog_log.txt", "a", encoding="utf-8") as f:
+        f.write(log_entry)
     
-    with open("lunch_history.txt", "a", encoding="utf-8") as f:
-        f.write(result)
-    
-    print(f"✅ API 데이터 수집 및 추천 완료!")
+    print(f"✅ 새로운 강아지 사진 수집 완료: {dog_url}")
 
 if __name__ == "__main__":
-    pick_lunch()
+    save_dog_log()
