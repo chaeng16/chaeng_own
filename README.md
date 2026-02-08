@@ -29,3 +29,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/bulldog-french/n02108915_5201.jpg)
 
 ---
+## 📅 2026-02-08 02:14 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/segugio-italian/n02090722_001.jpg)
+
+---
