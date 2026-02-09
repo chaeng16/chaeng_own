@@ -33,3 +33,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/segugio-italian/n02090722_001.jpg)
 
 ---
+## 📅 2026-02-09 01:58 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/terrier-russell/IMG_7489.jpg)
+
+---
