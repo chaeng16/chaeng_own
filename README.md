@@ -37,3 +37,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/terrier-russell/IMG_7489.jpg)
 
 ---
+## 📅 2026-02-10 02:08 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/affenpinscher/n02110627_3246.jpg)
+
+---
