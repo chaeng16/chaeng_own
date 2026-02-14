@@ -53,3 +53,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_2172.jpg)
 
 ---
+## 📅 2026-02-14 01:50 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/terrier-tibetan/n02097474_5175.jpg)
+
+---
