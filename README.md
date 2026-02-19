@@ -73,3 +73,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/cotondetulear/100_2397.jpg)
 
 ---
+## 📅 2026-02-19 01:56 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/australian-shepherd/leroy.jpg)
+
+---
