@@ -77,3 +77,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/australian-shepherd/leroy.jpg)
 
 ---
+## 📅 2026-02-20 01:52 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/terrier-sealyham/n02095889_662.jpg)
+
+---
