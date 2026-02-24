@@ -93,3 +93,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/deerhound-scottish/n02092002_2448.jpg)
 
 ---
+## 📅 2026-02-24 01:53 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/leonberg/n02111129_4850.jpg)
+
+---
