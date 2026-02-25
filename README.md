@@ -97,3 +97,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/leonberg/n02111129_4850.jpg)
 
 ---
+## 📅 2026-02-25 01:56 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/frise-bichon/1.jpg)
+
+---
