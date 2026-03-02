@@ -117,3 +117,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/terrier-cairn/n02096177_6083.jpg)
 
 ---
+## 📅 2026-03-02 01:53 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/rottweiler/n02106550_12424.jpg)
+
+---
