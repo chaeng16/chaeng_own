@@ -125,3 +125,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/terrier-irish/n02093991_3604.jpg)
 
 ---
+## 📅 2026-03-04 01:49 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/terrier-american/n02093428_8135.jpg)
+
+---
