@@ -137,3 +137,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/mastiff-bull/n02108422_4637.jpg)
 
 ---
+## 📅 2026-03-07 01:45 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/bakharwal-indian/Bakharwal.jpg)
+
+---
