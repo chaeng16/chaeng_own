@@ -141,3 +141,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/bakharwal-indian/Bakharwal.jpg)
 
 ---
+## 📅 2026-03-08 01:53 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/terrier-border/n02093754_2959.jpg)
+
+---
