@@ -157,3 +157,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/hound-basset/n02088238_11505.jpg)
 
 ---
+## 📅 2026-03-12 01:51 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/pariah-indian/The_Indian_Pariah_Dog.jpg)
+
+---
