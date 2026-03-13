@@ -161,3 +161,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/pariah-indian/The_Indian_Pariah_Dog.jpg)
 
 ---
+## 📅 2026-03-13 01:51 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/ovcharka-caucasian/IMG_20190628_144843.jpg)
+
+---
