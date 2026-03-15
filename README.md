@@ -169,3 +169,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/kelpie/n02105412_7504.jpg)
 
 ---
+## 📅 2026-03-15 02:05 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/appenzeller/n02107908_2090.jpg)
+
+---
