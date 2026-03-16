@@ -173,3 +173,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/appenzeller/n02107908_2090.jpg)
 
 ---
+## 📅 2026-03-16 02:07 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/mudhol-indian/Indian-Mudhol.jpg)
+
+---
