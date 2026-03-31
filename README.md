@@ -233,3 +233,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/mastiff-indian/Indian_Mastiff.jpg)
 
 ---
+## 📅 2026-03-31 02:05 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/elkhound-norwegian/n02091467_1787.jpg)
+
+---
