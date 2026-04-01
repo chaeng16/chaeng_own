@@ -237,3 +237,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/elkhound-norwegian/n02091467_1787.jpg)
 
 ---
+## 📅 2026-04-01 02:13 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/tervuren/shadow_and_lake.jpg)
+
+---
