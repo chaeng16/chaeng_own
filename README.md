@@ -245,3 +245,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/mastiff-bull/n02108422_3709.jpg)
 
 ---
+## 📅 2026-04-03 02:03 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/appenzeller/n02107908_4669.jpg)
+
+---
