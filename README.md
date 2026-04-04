@@ -249,3 +249,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/appenzeller/n02107908_4669.jpg)
 
 ---
+## 📅 2026-04-04 01:55 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/papillon/n02086910_9041.jpg)
+
+---
