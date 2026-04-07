@@ -261,3 +261,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/retriever-flatcoated/n02099267_706.jpg)
 
 ---
+## 📅 2026-04-07 02:06 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/coonhound/n02089078_2498.jpg)
+
+---
