@@ -269,3 +269,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/terrier-andalusian/images.jpg)
 
 ---
+## 📅 2026-04-09 01:59 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/rough-collie/1Dog-rough-collie-portrait.jpg)
+
+---
