@@ -273,3 +273,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/rough-collie/1Dog-rough-collie-portrait.jpg)
 
 ---
+## 📅 2026-04-10 02:12 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/pekinese/n02086079_6243.jpg)
+
+---
