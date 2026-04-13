@@ -285,3 +285,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/borzoi/n02090622_8745.jpg)
 
 ---
+## 📅 2026-04-13 02:26 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/hound-blood/n02088466_2908.jpg)
+
+---
