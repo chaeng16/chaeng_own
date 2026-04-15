@@ -293,3 +293,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/setter-gordon/n02101006_2445.jpg)
 
 ---
+## 📅 2026-04-15 02:10 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/brabancon/n02112706_1995.jpg)
+
+---
