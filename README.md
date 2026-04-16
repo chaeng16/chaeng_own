@@ -297,3 +297,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/brabancon/n02112706_1995.jpg)
 
 ---
+## 📅 2026-04-16 02:25 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/terrier-silky/n02097658_1910.jpg)
+
+---
