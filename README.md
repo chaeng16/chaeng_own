@@ -309,3 +309,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/mountain-swiss/n02107574_1871.jpg)
 
 ---
+## 📅 2026-04-19 02:26 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/spaniel-welsh/n02102177_2148.jpg)
+
+---
