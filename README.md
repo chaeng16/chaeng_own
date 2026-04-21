@@ -317,3 +317,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/terrier-welsh/lucy.jpg)
 
 ---
+## 📅 2026-04-21 02:23 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/vizsla/n02100583_13524.jpg)
+
+---
