@@ -321,3 +321,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/vizsla/n02100583_13524.jpg)
 
 ---
+## 📅 2026-04-22 02:12 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/weimaraner/n02092339_1700.jpg)
+
+---
