@@ -329,3 +329,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/terrier-toy/n02087046_1989.jpg)
 
 ---
+## 📅 2026-04-24 02:25 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/greyhound-italian/n02091032_1894.jpg)
+
+---
