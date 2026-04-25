@@ -333,3 +333,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/greyhound-italian/n02091032_1894.jpg)
 
 ---
+## 📅 2026-04-25 02:06 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/setter-gordon/n02101006_1871.jpg)
+
+---
