@@ -365,3 +365,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/keeshond/n02112350_6855.jpg)
 
 ---
+## 📅 2026-05-03 02:38 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/finnish-lapphund/img_3801.jpg)
+
+---
