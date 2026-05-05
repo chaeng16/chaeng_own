@@ -373,3 +373,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/newfoundland/n02111277_2865.jpg)
 
 ---
+## 📅 2026-05-05 02:30 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/terrier-dandie/n02096437_3289.jpg)
+
+---
