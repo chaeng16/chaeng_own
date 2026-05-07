@@ -381,3 +381,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/corgi-cardigan/n02113186_7231.jpg)
 
 ---
+## 📅 2026-05-07 02:36 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/vizsla/n02100583_2251.jpg)
+
+---
