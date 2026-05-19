@@ -429,3 +429,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/pinscher-miniature/n02107312_5987.jpg)
 
 ---
+## 📅 2026-05-19 02:54 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/hound-blood/n02088466_7703.jpg)
+
+---
