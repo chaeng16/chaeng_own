@@ -445,3 +445,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/frise-bichon/stevebaxter_bichon_frise.jpg)
 
 ---
+## 📅 2026-05-23 02:43 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/spaniel-irish/n02102973_356.jpg)
+
+---
