@@ -481,3 +481,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/maltese/n02085936_9812.jpg)
 
 ---
+## 📅 2026-06-01 03:42 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/otterhound/n02091635_3822.jpg)
+
+---
