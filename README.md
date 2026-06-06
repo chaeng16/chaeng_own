@@ -501,3 +501,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/mountain-bernese/n02107683_2946.jpg)
 
 ---
+## 📅 2026-06-06 02:50 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/tervuren/yoda_in_garden.jpg)
+
+---
