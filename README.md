@@ -505,3 +505,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/tervuren/yoda_in_garden.jpg)
 
 ---
+## 📅 2026-06-07 03:34 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/chihuahua/n02085620_3677.jpg)
+
+---
