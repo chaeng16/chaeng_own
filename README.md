@@ -509,3 +509,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/chihuahua/n02085620_3677.jpg)
 
 ---
+## 📅 2026-06-08 03:39 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/rajapalayam-indian/Rajapalayam-dog.jpg)
+
+---
