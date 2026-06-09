@@ -513,3 +513,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/rajapalayam-indian/Rajapalayam-dog.jpg)
 
 ---
+## 📅 2026-06-09 02:48 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/spitz-japanese/tofu.jpg)
+
+---
