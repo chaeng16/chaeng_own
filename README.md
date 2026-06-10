@@ -517,3 +517,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/spitz-japanese/tofu.jpg)
 
 ---
+## 📅 2026-06-10 03:25 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/cavapoo/lulu2.jpg)
+
+---
