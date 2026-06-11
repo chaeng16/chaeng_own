@@ -521,3 +521,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/cavapoo/lulu2.jpg)
 
 ---
+## 📅 2026-06-11 03:38 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/spaniel-welsh/n02102177_1833.jpg)
+
+---
