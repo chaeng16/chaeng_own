@@ -525,3 +525,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/spaniel-welsh/n02102177_1833.jpg)
 
 ---
+## 📅 2026-06-12 03:37 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/hound-blood/n02088466_8518.jpg)
+
+---
