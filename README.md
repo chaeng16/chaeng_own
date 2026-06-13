@@ -529,3 +529,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/hound-blood/n02088466_8518.jpg)
 
 ---
+## 📅 2026-06-13 03:24 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/leonberg/n02111129_5303.jpg)
+
+---
