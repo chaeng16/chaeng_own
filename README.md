@@ -541,3 +541,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/bulldog-english/murphy.jpg)
 
 ---
+## 📅 2026-06-16 03:43 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/rough-collie/collie-chatter-rough-collie-gus-posing.jpg)
+
+---
