@@ -553,3 +553,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/spaniel-irish/n02102973_4253.jpg)
 
 ---
+## 📅 2026-06-19 03:58 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/poodle-standard/n02113799_1144.jpg)
+
+---
