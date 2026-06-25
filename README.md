@@ -577,3 +577,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/danish-swedish-farmdog/ebba_004.jpg)
 
 ---
+## 📅 2026-06-25 02:53 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/spaniel-sussex/n02102480_2648.jpg)
+
+---
