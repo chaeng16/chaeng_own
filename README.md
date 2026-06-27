@@ -585,3 +585,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/terrier-norwich/n02094258_2032.jpg)
 
 ---
+## 📅 2026-06-27 02:48 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/terrier-dandie/n02096437_1532.jpg)
+
+---
