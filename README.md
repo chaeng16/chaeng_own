@@ -593,3 +593,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/kuvasz/n02104029_157.jpg)
 
 ---
+## 📅 2026-06-29 03:34 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/dachshund/dog-1083690_640.jpg)
+
+---
