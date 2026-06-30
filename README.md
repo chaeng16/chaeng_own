@@ -597,3 +597,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/dachshund/dog-1083690_640.jpg)
 
 ---
+## 📅 2026-06-30 02:58 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/setter-irish/n02100877_309.jpg)
+
+---
