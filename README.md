@@ -601,3 +601,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/setter-irish/n02100877_309.jpg)
 
 ---
+## 📅 2026-07-01 03:30 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/groenendael/n02105056_6534.jpg)
+
+---
