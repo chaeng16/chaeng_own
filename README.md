@@ -605,3 +605,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/groenendael/n02105056_6534.jpg)
 
 ---
+## 📅 2026-07-02 02:55 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/spaniel-japanese/n02085782_1156.jpg)
+
+---
