@@ -629,3 +629,7 @@
 ![귀여운 강아지](https://via.placeholder.com/150?text=Error)
 
 ---
+## 📅 2026-07-08 02:24 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/bulldog-boston/n02096585_11776.jpg)
+
+---
