@@ -633,3 +633,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/bulldog-boston/n02096585_11776.jpg)
 
 ---
+## 📅 2026-07-09 02:38 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/terrier-lakeland/n02095570_4237.jpg)
+
+---
