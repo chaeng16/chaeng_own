@@ -637,3 +637,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/terrier-lakeland/n02095570_4237.jpg)
 
 ---
+## 📅 2026-07-10 02:41 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/airedale/n02096051_3700.jpg)
+
+---
