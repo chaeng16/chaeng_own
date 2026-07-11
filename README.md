@@ -641,3 +641,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/airedale/n02096051_3700.jpg)
 
 ---
+## 📅 2026-07-11 02:22 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/retriever-golden/n02099601_3111.jpg)
+
+---
