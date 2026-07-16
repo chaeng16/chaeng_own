@@ -661,3 +661,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/retriever-curly/n02099429_2122.jpg)
 
 ---
+## 📅 2026-07-16 02:14 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/airedale/n02096051_6332.jpg)
+
+---
