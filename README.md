@@ -673,3 +673,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/dhole/n02115913_1010.jpg)
 
 ---
+## 📅 2026-07-19 02:23 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/dhole/n02115913_2480.jpg)
+
+---
