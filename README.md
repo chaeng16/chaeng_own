@@ -689,3 +689,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/poodle-standard/n02113799_448.jpg)
 
 ---
+## 📅 2026-07-23 02:26 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/komondor/n02105505_3957.jpg)
+
+---
