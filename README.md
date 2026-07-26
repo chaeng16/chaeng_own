@@ -701,3 +701,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/pinscher-miniature/n02107312_3449.jpg)
 
 ---
+## 📅 2026-07-26 02:28 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/kuvasz/n02104029_2246.jpg)
+
+---
