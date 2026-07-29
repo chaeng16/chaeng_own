@@ -713,3 +713,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/collie-border/n02106166_1128.jpg)
 
 ---
+## 📅 2026-07-29 02:15 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/mix/blaze_05.jpg)
+
+---
