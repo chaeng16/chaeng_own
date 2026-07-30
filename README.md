@@ -717,3 +717,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/mix/blaze_05.jpg)
 
 ---
+## 📅 2026-07-30 02:02 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/ridgeback-rhodesian/n02087394_9922.jpg)
+
+---
