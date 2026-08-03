@@ -733,3 +733,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/boxer/n02108089_2360.jpg)
 
 ---
+## 📅 2026-08-03 02:29 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/coonhound/n02089078_2801.jpg)
+
+---
