@@ -753,3 +753,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/mexicanhairless/n02113978_2286.jpg)
 
 ---
+## 📅 2026-08-08 01:17 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/chihuahua/n02085620_4207.jpg)
+
+---
