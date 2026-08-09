@@ -757,3 +757,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/chihuahua/n02085620_4207.jpg)
 
 ---
+## 📅 2026-08-09 01:22 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/terrier-wheaten/n02098105_408.jpg)
+
+---
