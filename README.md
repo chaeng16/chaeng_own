@@ -765,3 +765,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/terrier-dandie/n02096437_1367.jpg)
 
 ---
+## 📅 2026-08-11 01:22 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/terrier-tibetan/n02097474_5572.jpg)
+
+---
