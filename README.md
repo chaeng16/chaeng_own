@@ -773,3 +773,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/affenpinscher/n02110627_12227.jpg)
 
 ---
+## 📅 2026-08-13 01:41 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/schnauzer-miniature/n02097047_2776.jpg)
+
+---
