@@ -781,3 +781,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/terrier-sealyham/n02095889_1724.jpg)
 
 ---
+## 📅 2026-08-15 01:01 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/pointer-german/n02100236_873.jpg)
+
+---
