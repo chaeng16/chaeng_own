@@ -801,3 +801,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/mountain-swiss/n02107574_261.jpg)
 
 ---
+## 📅 2026-08-20 01:01 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/hound-basset/n02088238_7233.jpg)
+
+---
