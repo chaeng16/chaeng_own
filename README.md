@@ -809,3 +809,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/terrier-silky/n02097658_2271.jpg)
 
 ---
+## 📅 2026-08-22 01:00 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/airedale/n02096051_1799.jpg)
+
+---
