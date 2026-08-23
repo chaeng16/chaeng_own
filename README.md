@@ -813,3 +813,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/airedale/n02096051_1799.jpg)
 
 ---
+## 📅 2026-08-23 01:06 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/maltese/n02085936_6071.jpg)
+
+---
