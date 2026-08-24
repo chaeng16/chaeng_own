@@ -817,3 +817,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/maltese/n02085936_6071.jpg)
 
 ---
+## 📅 2026-08-24 01:03 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/spaniel-irish/n02102973_26.jpg)
+
+---
