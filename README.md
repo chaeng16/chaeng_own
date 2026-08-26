@@ -825,3 +825,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/pyrenees/n02111500_7420.jpg)
 
 ---
+## 📅 2026-08-26 01:04 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/redbone/n02090379_3042.jpg)
+
+---
