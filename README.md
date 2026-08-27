@@ -829,3 +829,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/redbone/n02090379_3042.jpg)
 
 ---
+## 📅 2026-08-27 07:06 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/german-shepherd/n02106662_9292.jpg)
+
+---
