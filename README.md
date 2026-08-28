@@ -833,3 +833,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/german-shepherd/n02106662_9292.jpg)
 
 ---
+## 📅 2026-08-28 08:53 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/vizsla/n02100583_13656.jpg)
+
+---
