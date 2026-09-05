@@ -865,3 +865,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/dane-great/n02109047_5675.jpg)
 
 ---
+## 📅 2026-09-05 02:47 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_15602.jpg)
+
+---
