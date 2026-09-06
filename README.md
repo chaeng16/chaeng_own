@@ -869,3 +869,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_15602.jpg)
 
 ---
+## 📅 2026-09-06 02:45 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/mix/roxy_2.jpg)
+
+---
