@@ -877,3 +877,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/pointer-german/n02100236_3504.jpg)
 
 ---
+## 📅 2026-09-08 02:55 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/chow/n02112137_11550.jpg)
+
+---
