@@ -885,3 +885,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/basenji/n02110806_3966.jpg)
 
 ---
+## 📅 2026-09-10 02:56 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/terrier-scottish/n02097298_91.jpg)
+
+---
