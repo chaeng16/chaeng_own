@@ -901,3 +901,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/terrier-lakeland/n02095570_2884.jpg)
 
 ---
+## 📅 2026-09-14 03:12 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/malinois/n02105162_6492.jpg)
+
+---
