@@ -909,3 +909,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/sheepdog-english/n02105641_3331.jpg)
 
 ---
+## 📅 2026-09-16 03:10 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/terrier-westhighland/n02098286_4106.jpg)
+
+---
