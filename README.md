@@ -913,3 +913,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/terrier-westhighland/n02098286_4106.jpg)
 
 ---
+## 📅 2026-09-17 03:15 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/terrier-scottish/n02097298_2792.jpg)
+
+---
