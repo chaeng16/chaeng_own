@@ -917,3 +917,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/terrier-scottish/n02097298_2792.jpg)
 
 ---
+## 📅 2026-09-18 03:01 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/springer-english/n02102040_3157.jpg)
+
+---
