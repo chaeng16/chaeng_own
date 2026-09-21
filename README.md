@@ -929,3 +929,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/pekinese/n02086079_10613.jpg)
 
 ---
+## 📅 2026-09-21 03:09 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/shihtzu/n02086240_4751.jpg)
+
+---
