@@ -937,3 +937,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/komondor/n02105505_955.jpg)
 
 ---
+## 📅 2026-09-23 03:09 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/schipperke/n02104365_8156.jpg)
+
+---
