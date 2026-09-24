@@ -941,3 +941,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/schipperke/n02104365_8156.jpg)
 
 ---
+## 📅 2026-09-24 02:59 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/terrier-fox/n02095314_1407.jpg)
+
+---
