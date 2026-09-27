@@ -953,3 +953,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/doberman/n02107142_11042.jpg)
 
 ---
+## 📅 2026-09-27 03:29 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/dingo/n02115641_136.jpg)
+
+---
