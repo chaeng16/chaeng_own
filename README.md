@@ -957,3 +957,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/dingo/n02115641_136.jpg)
 
 ---
+## 📅 2026-09-28 03:27 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/spaniel-blenheim/n02086646_618.jpg)
+
+---
