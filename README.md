@@ -969,3 +969,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/mastiff-english/3.jpg)
 
 ---
+## 📅 2026-10-01 03:58 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/spaniel-blenheim/n02086646_851.jpg)
+
+---
