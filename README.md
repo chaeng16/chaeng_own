@@ -973,3 +973,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/spaniel-blenheim/n02086646_851.jpg)
 
 ---
+## 📅 2026-10-02 03:54 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/terrier-norfolk/n02094114_1745.jpg)
+
+---
