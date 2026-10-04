@@ -981,3 +981,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/hound-walker/n02089867_2815.jpg)
 
 ---
+## 📅 2026-10-04 04:09 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/hound-walker/n02089867_1412.jpg)
+
+---
