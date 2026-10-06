@@ -989,3 +989,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/otterhound/n02091635_3548.jpg)
 
 ---
+## 📅 2026-10-06 04:42 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/finnish-lapphund/mochilamvan.jpg)
+
+---
