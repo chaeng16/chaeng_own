@@ -993,3 +993,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/finnish-lapphund/mochilamvan.jpg)
 
 ---
+## 📅 2026-10-07 04:08 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/springer-english/n02102040_1082.jpg)
+
+---
