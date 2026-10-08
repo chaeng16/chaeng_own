@@ -997,3 +997,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/springer-english/n02102040_1082.jpg)
 
 ---
+## 📅 2026-10-08 04:20 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/brabancon/n02112706_2149.jpg)
+
+---
