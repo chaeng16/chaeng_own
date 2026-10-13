@@ -1017,3 +1017,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/saluki/n02091831_3847.jpg)
 
 ---
+## 📅 2026-10-13 05:19 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/ovcharka-caucasian/img_20190602_204319.jpg)
+
+---
