@@ -1021,3 +1021,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/ovcharka-caucasian/img_20190602_204319.jpg)
 
 ---
+## 📅 2026-10-14 03:24 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/setter-english/n02100735_6803.jpg)
+
+---
