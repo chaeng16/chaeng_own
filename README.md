@@ -1029,3 +1029,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/kombai/kombai-indian-dog.jpg)
 
 ---
+## 📅 2026-10-16 02:59 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/setter-english/n02100735_3546.jpg)
+
+---
