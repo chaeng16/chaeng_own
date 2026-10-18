@@ -1037,3 +1037,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/cattledog-australian/img_1688.jpg)
 
 ---
+## 📅 2026-10-18 02:53 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/rajapalayam-indian/rajapalayam-dog.jpg)
+
+---
