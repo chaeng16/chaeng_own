@@ -1041,3 +1041,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/rajapalayam-indian/rajapalayam-dog.jpg)
 
 ---
+## 📅 2026-10-19 03:06 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/kuvasz/n02104029_262.jpg)
+
+---
