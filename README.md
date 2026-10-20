@@ -1045,3 +1045,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/kuvasz/n02104029_262.jpg)
 
 ---
+## 📅 2026-10-20 03:15 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/kuvasz/bella_buddy.jpg)
+
+---
