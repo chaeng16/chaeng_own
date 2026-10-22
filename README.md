@@ -1053,3 +1053,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/puggle/img_074532.jpg)
 
 ---
+## 📅 2026-10-22 03:08 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/stbernard/n02109525_12610.jpg)
+
+---
