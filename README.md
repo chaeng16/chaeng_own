@@ -1065,3 +1065,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/pomeranian/pomeranian_black_07.jpg)
 
 ---
+## 📅 2026-10-25 03:03 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/eskimo/n02109961_6290.jpg)
+
+---
