@@ -1069,3 +1069,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/eskimo/n02109961_6290.jpg)
 
 ---
+## 📅 2026-10-26 03:02 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/briard/n02105251_8210.jpg)
+
+---
