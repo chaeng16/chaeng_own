@@ -1077,3 +1077,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/waterdog-spanish/20181023_072736.jpg)
 
 ---
+## 📅 2026-10-28 03:51 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/cotondetulear/imag1063.jpg)
+
+---
