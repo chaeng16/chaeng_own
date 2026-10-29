@@ -1081,3 +1081,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/cotondetulear/imag1063.jpg)
 
 ---
+## 📅 2026-10-29 04:13 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/chihuahua/n02085620_2053.jpg)
+
+---
