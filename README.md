@@ -1085,3 +1085,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/chihuahua/n02085620_2053.jpg)
 
 ---
+## 📅 2026-10-30 04:13 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/brabancon/n02112706_1065.jpg)
+
+---
