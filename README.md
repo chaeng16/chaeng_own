@@ -1089,3 +1089,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/brabancon/n02112706_1065.jpg)
 
 ---
+## 📅 2026-10-31 03:55 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/pyrenees/n02111500_9306.jpg)
+
+---
