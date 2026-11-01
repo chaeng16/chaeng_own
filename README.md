@@ -1093,3 +1093,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/pyrenees/n02111500_9306.jpg)
 
 ---
+## 📅 2026-11-01 04:09 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/mudhol-indian/indian-mudhol.jpg)
+
+---
