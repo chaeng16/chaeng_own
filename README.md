@@ -1097,3 +1097,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/mudhol-indian/indian-mudhol.jpg)
 
 ---
+## 📅 2026-11-02 04:13 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/african-wild/n02116738_9844.jpg)
+
+---
