@@ -1105,3 +1105,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/schipperke/n02104365_7381.jpg)
 
 ---
+## 📅 2026-11-04 04:42 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/cavapoo/doggo4.jpg)
+
+---
