@@ -1121,3 +1121,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/groenendael/n02105056_6827.jpg)
 
 ---
+## 📅 2026-11-08 04:15 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/hound-basset/n02088238_3079.jpg)
+
+---
