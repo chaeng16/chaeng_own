@@ -1129,3 +1129,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/spaniel-irish/n02102973_4328.jpg)
 
 ---
+## 📅 2026-11-10 05:50 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/kuvasz/n02104029_3505.jpg)
+
+---
