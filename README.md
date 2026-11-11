@@ -1133,3 +1133,7 @@
 ![귀여운 강아지](https://images.dog.ceo/breeds/kuvasz/n02104029_3505.jpg)
 
 ---
+## 📅 2026-11-11 04:33 오늘의 강아지 🐶
+![귀여운 강아지](https://images.dog.ceo/breeds/ovcharka-caucasian/img_20191130_160405.jpg)
+
+---
